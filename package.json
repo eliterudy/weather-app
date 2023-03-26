@@ -1,14 +1,13 @@
 {
   "name": "weatherapp",
+  "homepage": "https://eliterudy.github.io/weather-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "bootstrap": "^5.2.3",

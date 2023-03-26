@@ -57,7 +57,7 @@ const InfoCard = ({
       feel_temp: convertKelToFeh(feels_like),
       units: {
         humidity: "%",
-        wind: "m/hr",
+        wind: "m/s",
       },
     },
     {
