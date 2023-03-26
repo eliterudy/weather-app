@@ -8,9 +8,9 @@ import {} from "react-bootstrap";
 function App() {
   return (
     <div className="app px-4">
-      <Background>
+      {/* <Background>
         <Weather />
-      </Background>
+      </Background> */}
     </div>
   );
 }
